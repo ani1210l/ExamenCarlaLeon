@@ -29,7 +29,7 @@ import net.sf.jasperreports.view.JasperViewer;
 import vista.VistaPlatos;
 
 public class ControladorPlatos {
-    
+    /////////////
     ModeloPlatos modelo;
     VistaPlatos vista;
     
